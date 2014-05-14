@@ -1,0 +1,5 @@
+The Wyrd Vault
+
+Element		Wyrm		Color		Power		City
+
+Fire		Valinog		Red			Power		Aidelon
